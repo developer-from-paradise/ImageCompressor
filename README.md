@@ -31,3 +31,7 @@ To run the web application on your local machine, you need to follow these steps
 2. Click on the `Compress` button to compress the image.
 4. Once the image is compressed, its will be displayed on the screen along with a preview of the compressed image.
 5. Click on the `Download` button to download.
+
+## Demo version
+
+[Demo link](http://f0792778.xsph.ru/image-compressor)
